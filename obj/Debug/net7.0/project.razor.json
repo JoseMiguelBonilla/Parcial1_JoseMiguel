@@ -13,43 +13,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1025757167,
-        "Kind": "Components.Component",
-        "Name": "Parcial1_JoseMiguel.Pages.Counter",
-        "AssemblyName": "Parcial1_JoseMiguel",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Parcial1_JoseMiguel.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "Parcial1_JoseMiguel.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 11287789,
-        "Kind": "Components.Component",
-        "Name": "Parcial1_JoseMiguel.Pages.Counter",
-        "AssemblyName": "Parcial1_JoseMiguel",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Parcial1_JoseMiguel.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Parcial1_JoseMiguel.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "Parcial1_JoseMiguel.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": -2045475351,
         "Kind": "Components.Component",
         "Name": "Parcial1_JoseMiguel.Pages.Index",
@@ -87,38 +50,112 @@
         }
       },
       {
-        "HashCode": 1145959665,
+        "HashCode": -1025757167,
         "Kind": "Components.Component",
-        "Name": "Parcial1_JoseMiguel.App",
+        "Name": "Parcial1_JoseMiguel.Pages.Counter",
         "AssemblyName": "Parcial1_JoseMiguel",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "Parcial1_JoseMiguel.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "Parcial1_JoseMiguel",
+          "Common.TypeName": "Parcial1_JoseMiguel.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "Parcial1_JoseMiguel.Pages",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -65925667,
+        "HashCode": 11287789,
         "Kind": "Components.Component",
-        "Name": "Parcial1_JoseMiguel.App",
+        "Name": "Parcial1_JoseMiguel.Pages.Counter",
         "AssemblyName": "Parcial1_JoseMiguel",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Parcial1_JoseMiguel.App"
+            "TagName": "Parcial1_JoseMiguel.Pages.Counter"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "Parcial1_JoseMiguel.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "Parcial1_JoseMiguel",
+          "Common.TypeName": "Parcial1_JoseMiguel.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "Parcial1_JoseMiguel.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -24185805,
+        "Kind": "Components.Component",
+        "Name": "Parcial1_JoseMiguel.Pages.Registros.I_Registro",
+        "AssemblyName": "Parcial1_JoseMiguel",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "I_Registro"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Parcial1_JoseMiguel.Pages.Registros.I_Registro",
+          "Common.TypeNameIdentifier": "I_Registro",
+          "Common.TypeNamespace": "Parcial1_JoseMiguel.Pages.Registros",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 531744962,
+        "Kind": "Components.Component",
+        "Name": "Parcial1_JoseMiguel.Pages.Registros.I_Registro",
+        "AssemblyName": "Parcial1_JoseMiguel",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Parcial1_JoseMiguel.Pages.Registros.I_Registro"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Parcial1_JoseMiguel.Pages.Registros.I_Registro",
+          "Common.TypeNameIdentifier": "I_Registro",
+          "Common.TypeNamespace": "Parcial1_JoseMiguel.Pages.Registros",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 497578999,
+        "Kind": "Components.Component",
+        "Name": "Parcial1_JoseMiguel.Shared.NavMenu",
+        "AssemblyName": "Parcial1_JoseMiguel",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Parcial1_JoseMiguel.Shared.NavMenu",
+          "Common.TypeNameIdentifier": "NavMenu",
+          "Common.TypeNamespace": "Parcial1_JoseMiguel.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -42001417,
+        "Kind": "Components.Component",
+        "Name": "Parcial1_JoseMiguel.Shared.NavMenu",
+        "AssemblyName": "Parcial1_JoseMiguel",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Parcial1_JoseMiguel.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Parcial1_JoseMiguel.Shared.NavMenu",
+          "Common.TypeNameIdentifier": "NavMenu",
+          "Common.TypeNamespace": "Parcial1_JoseMiguel.Shared",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
@@ -230,38 +267,38 @@
         }
       },
       {
-        "HashCode": 497578999,
+        "HashCode": 1145959665,
         "Kind": "Components.Component",
-        "Name": "Parcial1_JoseMiguel.Shared.NavMenu",
+        "Name": "Parcial1_JoseMiguel.App",
         "AssemblyName": "Parcial1_JoseMiguel",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "Parcial1_JoseMiguel.Shared.NavMenu",
-          "Common.TypeNameIdentifier": "NavMenu",
-          "Common.TypeNamespace": "Parcial1_JoseMiguel.Shared",
+          "Common.TypeName": "Parcial1_JoseMiguel.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "Parcial1_JoseMiguel",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -42001417,
+        "HashCode": -65925667,
         "Kind": "Components.Component",
-        "Name": "Parcial1_JoseMiguel.Shared.NavMenu",
+        "Name": "Parcial1_JoseMiguel.App",
         "AssemblyName": "Parcial1_JoseMiguel",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Parcial1_JoseMiguel.Shared.NavMenu"
+            "TagName": "Parcial1_JoseMiguel.App"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "Parcial1_JoseMiguel.Shared.NavMenu",
-          "Common.TypeNameIdentifier": "NavMenu",
-          "Common.TypeNamespace": "Parcial1_JoseMiguel.Shared",
+          "Common.TypeName": "Parcial1_JoseMiguel.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "Parcial1_JoseMiguel",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
@@ -18936,6 +18973,11 @@
     {
       "FilePath": "c:\\APLICADA I\\Parcial1_JoseMiguel\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\APLICADA I\\Parcial1_JoseMiguel\\Pages\\Registros\\I_Registro.razor",
+      "TargetPath": "Pages\\Registros\\I_Registro.razor",
       "FileKind": "component"
     }
   ],
